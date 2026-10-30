@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/homon-hyakushu",
  "yomi": "ほうもんひゃくしゅ",
  "category": "定数歌",
- "description": null,
+ "description": {
+  "kind": "釈教百首",
+  "era": "平安後期",
+  "author": "寂然",
+  "desc": "寂然が経文の句を題に詠んだ百首。春の部から始まり、一首ごとに、歌の心を法門に照らして説く和文の注を添える。"
+ },
  "editions": [
   {
    "pid": "1879545",
